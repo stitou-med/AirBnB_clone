@@ -1,23 +1,18 @@
+<h1 align="center">AirBnB Clone ― The ALX-Holberton BnB</h1>
 <p align="center">
-  <img src="https://github.com/Adeniyii/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="assets/hbnb_logo.png" alt="hbnb_logo">
 </p>
-
-
-<h1 align="center">hBnB</h1>
-<p align="center">An AirBnB clone.</p>
 
 ---
 
 ## Description :label:
 
-HolbertonBnB is a complete web application, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
-
-This team project is part of the (Alx) Holberton School Software Engineering program. </br>
-It represents the first step towards building a full web application.
-
-This first step consists of:
-- a custom command-line interface for data management,
-- and the base classes for the storage of this data.
+The ALX-Holberton BnB sums up the implementation of my four months of studies at the ALX-Holberton School - the fullstack software engineering program.
+The goal of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/) using my server. The final version of this project will have:
+- A command interpreter to manipulate data without a visual interface, like a shell (for development and debugging)
+- A website (front-end) with static and dynamic functionalities
+- A comprehensive database to manage the backend functionalities
+- An API that provides a communication interface between the front and backend of the system.
 
 ## Usage 💻
 
@@ -89,9 +84,3 @@ Alternatively, you can specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
-
-
-## Authors :black_nib:
-
-* **Atabong Cecilia** <[cecilia-89](https://github.com/cecilia-89)>
-* **Ijabadeniyi Ifedayo** <[Adeniyii](https://github.com/Adeniyii)>
